@@ -1,0 +1,12 @@
+bin/
+obj/*
+obj/
+.vs/
+.user
+.suo
+.v12.suo
+*.v12.suo
+settings.StyleCop
+*.csproj.user
+*.dotsettings
+*.DotSettings.User
